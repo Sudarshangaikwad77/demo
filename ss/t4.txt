@@ -1,0 +1,8 @@
+Class Hello
+
+{
+public static void main(Strig[]args)
+{
+system.out.printl( "hello java");
+}
+}
